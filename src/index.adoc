@@ -17,7 +17,7 @@ A paragraph followed by a simple list with square bullets.
 [square]
 * item 1
 * item 2
-
+[center]
 Here's how you say "`Hello, World!`" in Prawn:
 
 .Create a basic PDF document using Prawn
